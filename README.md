@@ -1,11 +1,11 @@
 # ReviewWQuestion-PracticePR
 질문부터 시작하는 코드리뷰 1기의 PR 연습을 위한 저장소입니다.
 
-#이 README는 포항으로부터 시작되어…
+# 이 README는 포항으로부터 시작되어…
 
 
 
-##9개월에 한바퀴를 돌면서
+## 9개월에 한바퀴를 돌면서
 
 
 ### 받는 사람에게 행운을 주었고
@@ -14,9 +14,9 @@
 
 ##### 이 편지는 오늘 안에
 
-#####당신 곁을 떠나야 합니다.
+##### 당신 곁을 떠나야 합니다.
 
-###또한, 이 내용를 포함해서 원본 레포지토리에 PR을 보내 주셔야 합니다.
+### 또한, 이 내용를 포함해서 원본 레포지토리에 PR을 보내 주셔야 합니다.
 ```
 print("Hello Pull-Request!")
 ```
@@ -27,6 +27,6 @@ print("Hello Pull-Request!")
 > Markdown 문법의 일부는 Ryver 에서도 적용 됩니다!
 > 
 > 이렇게 [링크]([Swift.org - API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/))를 걸 수도 있고
-> 문장 중간에 코드블럭 을 넣을 수도 있습니다.
+> 문장 중간에 `코드블럭` 을 넣을 수도 있습니다.
 - - -
 여기까지 작성했다면 PR을 보내볼까요?
